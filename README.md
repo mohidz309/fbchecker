@@ -18,7 +18,7 @@ php fbcheck.php
 
 Usage
 ```
- php fbcheck.php target.txt
+ php fbcheck.php exe.txt
 ```
 
 - Website : [taqinwebs](https://taqinwebs.blogspot.com)
