@@ -11,7 +11,7 @@ Facebook Mass Account Checker Without Locked Account
 Simple Installation :
 ```
 apt install git php -y
-git clone https://github.com/fdciabdul/fbchecker
+git clone https://github.com/mohidz309/fbchecker
 cd fbchecker
 php fbcheck.php
 ```
